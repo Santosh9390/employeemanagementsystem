@@ -70,7 +70,7 @@ A secure and feature-rich RESTful API built with Spring Boot that allows user re
 ### 📁 How to Run
 
 ```bash
-git clone https://github.com/your-username/employee-management-system.git
+git clone https://github.com/Santosh9390/employeemanagementsystem.git
 cd employee-management-system
 ./mvnw spring-boot:run
 ```
